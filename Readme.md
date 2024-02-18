@@ -1,5 +1,5 @@
 * `Loss for critic network`: $\delta^2 = (r(s,a) + \gamma*V(S') - V(S))^2$
-* `Loss for actor netwrok`: $\delta*ln(\pi(a|s)$) 
+* `Loss for actor netwrok`: $\delta*ln(\pi(a|s))$ 
 
 ## ABOUT Actor-critic
 
